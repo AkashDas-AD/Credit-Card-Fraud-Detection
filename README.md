@@ -6,6 +6,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 ## Dataset
 
+- **Dataset Link:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 - **Total Records:** 284,807 transactions  
 - **Fraudulent Transactions:** 492 (Highly imbalanced dataset)  
 - **Features:** 30 anonymized numerical input features and the transaction amount  
